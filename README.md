@@ -1,5 +1,4 @@
 <!-- Banner GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner GIF" />
 
 <h1 align="center">Hi 👋, I'm Ande Nagasai Manikanta</h1>
 <h3 align="center">A Passionate Backend Developer from India 🚀</h3>
