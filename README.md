@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 
-<h1 align="center">Hi 👋, Mani</h1>
+<h1 align="center">Hi 👋, I'm Mani</h1>
 <h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
